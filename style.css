@@ -1,0 +1,28 @@
+body{
+    color:rgb(136, 128, 128);
+    background-color:aquamarine;
+}
+.heading{
+    color:black;
+    font-size: 30px;
+    width:100%;
+}
+b{
+    color:black;
+    font-size:28px;
+}
+#camera,#result{
+    border-color:black;
+    border-width:2px;
+    border-style: dotted;
+    height:40%;
+    width:40%;
+}
+button{
+    font-size: 30px;
+    font-weight:bold;
+}
+#result_object,#result_per{
+  color:black;
+  font-weight: bold;
+}
